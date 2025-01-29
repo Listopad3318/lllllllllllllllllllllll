@@ -1,0 +1,31 @@
+* {
+    color: rgb(3, 20, 24);
+    font-size: 30px;
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+h1 {
+    font-family: "Pacifico", serif;
+    text-align: center;
+    font-size: 50px;
+
+}
+.tiger{
+    line-height: 4.5;
+}
+    
+a[href="#"] {
+    color: red;
+}
+img { 
+    width: 300px;
+    
+}
+span {
+    font-weight: bold;
+}
+.image {
+    display: flex;
+    justify-content: space-evenly;
+}
